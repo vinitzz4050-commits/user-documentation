@@ -1,7 +1,6 @@
 # Introduction
 
-HHVM is officially supported on most major [Linux platforms](/hhvm/installation/linux).
-
+HHVM is officially supported on most major [Linux platforms](/hhvm/installation/linux ajAY BNK
 ## Prebuilt Packages
 
 The easiest way to get going with HHVM is to use one of our supported prebuilt packages. Currently prebuilt packages are available for:
